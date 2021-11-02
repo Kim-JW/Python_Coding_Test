@@ -1,2 +1,2 @@
-from Programmers import lottery
+from Baekjoon import b12865
 
