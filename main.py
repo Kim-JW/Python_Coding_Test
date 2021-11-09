@@ -1,1 +1,1 @@
-from Baekjoon import b_15666
+from Baekjoon import b_2580
